@@ -1,1 +1,0 @@
-The LUMC-NLP-LAB is a project group in the Leiden University Medical Center (LUMC) focussing on the use of Large Language Models in time consuming administrative tasks in the field of cardiology, oncology and anaesthesiology.  
